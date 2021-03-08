@@ -1,0 +1,6 @@
+D:\Free Lancing\djschnepp\Client-Server\Client-Server\Debug\Client-Server.vcxprojAssemblyReference.cache
+D:\Free Lancing\djschnepp\Client-Server\Client-Server\Debug\ClientServer.Client.resources
+D:\Free Lancing\djschnepp\Client-Server\Client-Server\Debug\ClientServer.Home.resources
+D:\Free Lancing\djschnepp\Client-Server\Client-Server\Debug\ClientServer.Server.resources
+D:\Free Lancing\djschnepp\Client-Server\Client-Server\Debug\ClientServer.ServerConnection.resources
+D:\Free Lancing\djschnepp\Client-Server\Client-Server\Debug\Client-Server.vcxproj.GenerateResource.cache
